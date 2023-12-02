@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Martin Sofroniev</h1>
+<h3 align="center">Enthusiastic junior front-end developer with a desire to grow and improve every day. I'm ready to learn and develop my skills.</h3>
+
 # 💫 About Me:
 👋 I'm currently seeking for junior developer position.<br>👨‍💻 i'm looking to collaborate on professional projects.<br>🌱 I'm currently learning for full stack developer - front- end, back- end and devops culture.<br>💬 Ask me about everything.<br>📫 Fun fact: Code Zen - Achieving z state of inner peace when your code finally compiles without errors.
 
