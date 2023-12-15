@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/martin sofroniev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin sofroniev" height="30" width="40" /></a>
 <a href="https://fb.com/martin sofroniev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martin sofroniev" height="30" width="40" /></a>
-<a href="https://instagram.com/martin_sw4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin_sw4" height="30" width="40" /></a>
+<a href="https://instagram.com/martin_13s18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin_sw4" height="30" width="40" /></a>
 <a href="https://discord.gg/martin13s18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="martin13s18" height="30" width="40" /></a>
 </p>
 
