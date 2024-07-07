@@ -14,6 +14,7 @@
 </p>
 
 # 💻 Tech Stack:
+
 ## Tech Stack:
 
 ### Programming Languages and Scripting
@@ -108,6 +109,15 @@
   <img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Jquery%20AJAX-0769AD?style=flat&logo=jquery&logoColor=white" height="30">
+</div>
+
+### Operating Systems
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Linux%20Kernel-FCC624?style=flat&logo=linux&logoColor=black" height="30">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?style=flat&logo=alpinelinux&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat&logo=redhat&logoColor=white" height="30">
 </div>
 
 # 📊 GitHub Stats:
