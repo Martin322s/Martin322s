@@ -47,7 +47,8 @@
 ### Front-end Frameworks and Libraries
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/React%20Compiler-61DAFB?style=flat&logo=react&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="30">
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" height="30">
   <img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white" height="30">
