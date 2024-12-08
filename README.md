@@ -123,20 +123,21 @@
 
 ### 🤖 AI Chat Tools  
 
-- ![ChatGPT Logo](https://logos-world.net/wp-content/uploads/2023/04/ChatGPT-Logo.png) [ChatGPT](https://chat.openai.com/)  
-- ![Claude Logo](https://www.graphapp.ai/wp-content/uploads/2023/05/Claude-logo.png) [Claude](https://www.anthropic.com/product)  
-- ![Perplexity Logo](https://www.perplexity.ai/static/perplexity_logo.png) [Perplexity](https://www.perplexity.ai/)  
-- ![YouChat Logo](https://about.you.com/assets/og-image.png) [YouChat](https://you.com/)  
-- ![Gemini Logo](https://www.makeuseof.com/public/images/2023/12/google-gemini-logo.jpg) [Gemini](https://www.google.com/search/about/)  
-- ![Microsoft Copilot Logo](https://logos-world.net/wp-content/uploads/2023/04/Microsoft-Copilot-Logo.png) [MS Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)  
-- ![CleverBot Logo](https://cleverbot.com/images/cleverbot.gif) [CleverBot](https://www.cleverbot.com/)  
-- ![Poe Logo](https://poe.com/static/poe.png) [Poe](https://poe.com/)  
-- ![PFP Images Maker Logo](https://img.icons8.com/color/452/image.png) [PFP Images Maker](https://www.fotor.com/)  
-- ![InVideo AI Logo](https://www.invideo.io/assets/favicon/favicon-32x32.png) [InVideo AI](https://www.invideo.io/)  
-- ![Suno Music Logo](https://suno-music.net/images/logo.png) [Suno Music](https://www.suno-music.net/)  
-- ![Cursor Logo](https://cursor.so/assets/favicon-32x32.png) [Cursor](https://cursor.so/)  
-- ![Runway Logo](https://runwayml.com/static/logo.png) [Runway](https://runwayml.com/)    
-
+### AI Tools  
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="30">
+  <img src="https://img.shields.io/badge/Claude-3F4FA0?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="30">
+  <img src="https://img.shields.io/badge/Perplexity-0056D2?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" height="30">
+  <img src="https://img.shields.io/badge/YouChat-FF6C37?style=for-the-badge&logo=you&logoColor=white" alt="YouChat" height="30">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" height="30">
+  <img src="https://img.shields.io/badge/MS%20Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MS Copilot" height="30">
+  <img src="https://img.shields.io/badge/CleverBot-00B8D4?style=for-the-badge&logo=cleverbot&logoColor=white" alt="CleverBot" height="30">
+  <img src="https://img.shields.io/badge/Poe-9B51E0?style=for-the-badge&logo=poe&logoColor=white" alt="Poe" height="30">
+  <img src="https://img.shields.io/badge/InVideo%20AI-F68585?style=for-the-badge&logo=invideo&logoColor=white" alt="InVideo AI" height="30">
+  <img src="https://img.shields.io/badge/Suno%20Music-FF4A83?style=for-the-badge&logo=suno&logoColor=white" alt="Suno Music" height="30">
+  <img src="https://img.shields.io/badge/Cursor-4CAF50?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" height="30">
+  <img src="https://img.shields.io/badge/Runway-000000?style=for-the-badge&logo=runwayml&logoColor=white" alt="Runway" height="30">
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Martin322s&theme=dark&hide_border=false)<br/>
