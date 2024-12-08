@@ -122,8 +122,7 @@
 </div>
 
 ### 🤖 AI Chat Tools  
-
-### AI Tools  
+ 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="30">
   <img src="https://img.shields.io/badge/Claude-3F4FA0?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" height="30">
