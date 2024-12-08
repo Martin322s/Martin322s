@@ -122,19 +122,20 @@
 </div>
 
 ### 🤖 AI Chat Tools  
-- ![ChatGPT Logo](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg) ChatGPT  
-- ![Claude Logo](https://upload.wikimedia.org/wikipedia/commons/9/9e/Claude_logo.svg) Claude  
-- ![Perplexity Logo](https://upload.wikimedia.org/wikipedia/commons/7/7d/Perplexity_logo.svg) Perplexity  
-- ![YouChat Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/YouChat_logo.svg) YouChat  
-- ![Gemini Logo](https://upload.wikimedia.org/wikipedia/commons/2/23/Gemini_logo.svg) Gemini  
-- ![Microsoft Copilot Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Microsoft_Copilot_logo.svg) MS Copilot  
-- ![CleverBot Logo](https://upload.wikimedia.org/wikipedia/commons/5/56/Cleverbot_logo.svg) CleverBot  
-- ![Poe Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/Poe_logo.svg) Poe  
-- ![PFP Images Maker Logo](https://upload.wikimedia.org/wikipedia/commons/a/a3/PFP_Images_Maker_logo.svg) PFP Images Maker  
-- ![InVideo AI Logo](https://upload.wikimedia.org/wikipedia/commons/e/e1/InVideo_logo.svg) InVideo AI  
-- ![Suno Music Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Suno_music_logo.svg) Suno Music  
-- ![Cursor Logo](https://upload.wikimedia.org/wikipedia/commons/0/0c/Cursor_logo.svg) Cursor  
-- ![Runway Logo](https://upload.wikimedia.org/wikipedia/commons/0/02/Runway_logo.svg) Runway    
+
+- ![ChatGPT Logo](https://logos-world.net/wp-content/uploads/2023/04/ChatGPT-Logo.png) [ChatGPT](https://chat.openai.com/)  
+- ![Claude Logo](https://www.graphapp.ai/wp-content/uploads/2023/05/Claude-logo.png) [Claude](https://www.anthropic.com/product)  
+- ![Perplexity Logo](https://www.perplexity.ai/static/perplexity_logo.png) [Perplexity](https://www.perplexity.ai/)  
+- ![YouChat Logo](https://about.you.com/assets/og-image.png) [YouChat](https://you.com/)  
+- ![Gemini Logo](https://www.makeuseof.com/public/images/2023/12/google-gemini-logo.jpg) [Gemini](https://www.google.com/search/about/)  
+- ![Microsoft Copilot Logo](https://logos-world.net/wp-content/uploads/2023/04/Microsoft-Copilot-Logo.png) [MS Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)  
+- ![CleverBot Logo](https://cleverbot.com/images/cleverbot.gif) [CleverBot](https://www.cleverbot.com/)  
+- ![Poe Logo](https://poe.com/static/poe.png) [Poe](https://poe.com/)  
+- ![PFP Images Maker Logo](https://img.icons8.com/color/452/image.png) [PFP Images Maker](https://www.fotor.com/)  
+- ![InVideo AI Logo](https://www.invideo.io/assets/favicon/favicon-32x32.png) [InVideo AI](https://www.invideo.io/)  
+- ![Suno Music Logo](https://suno-music.net/images/logo.png) [Suno Music](https://www.suno-music.net/)  
+- ![Cursor Logo](https://cursor.so/assets/favicon-32x32.png) [Cursor](https://cursor.so/)  
+- ![Runway Logo](https://runwayml.com/static/logo.png) [Runway](https://runwayml.com/)    
 
 
 # 📊 GitHub Stats:
