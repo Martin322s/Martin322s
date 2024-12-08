@@ -122,19 +122,19 @@
 </div>
 
 ### 🤖 AI Chat Tools  
-- ![ChatGPT Logo](https://upload.wikimedia.org/wikipedia/commons/4/42/OpenAI_Logo_2023.svg) ChatGPT  
-- ![Claude Logo](https://upload.wikimedia.org/wikipedia/commons/9/97/Claude_logo.png) Claude  
+- ![ChatGPT Logo](https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg) ChatGPT  
+- ![Claude Logo](https://upload.wikimedia.org/wikipedia/commons/9/9e/Claude_logo.svg) Claude  
 - ![Perplexity Logo](https://upload.wikimedia.org/wikipedia/commons/7/7d/Perplexity_logo.svg) Perplexity  
-- ![YouChat Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/YouChat_logo.png) YouChat  
-- ![Gemini Logo](https://upload.wikimedia.org/wikipedia/commons/2/23/Gemini_logo.png) Gemini  
-- ![Microsoft Copilot Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Microsoft_Copilot_logo.png) MS Copilot  
-- ![CleverBot Logo](https://upload.wikimedia.org/wikipedia/commons/5/56/Cleverbot_logo.png) CleverBot  
+- ![YouChat Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/YouChat_logo.svg) YouChat  
+- ![Gemini Logo](https://upload.wikimedia.org/wikipedia/commons/2/23/Gemini_logo.svg) Gemini  
+- ![Microsoft Copilot Logo](https://upload.wikimedia.org/wikipedia/commons/d/d9/Microsoft_Copilot_logo.svg) MS Copilot  
+- ![CleverBot Logo](https://upload.wikimedia.org/wikipedia/commons/5/56/Cleverbot_logo.svg) CleverBot  
 - ![Poe Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/Poe_logo.svg) Poe  
-- ![PFP Images Maker Logo](https://upload.wikimedia.org/wikipedia/commons/a/a3/PFP_Images_Maker_logo.png) PFP Images Maker  
-- ![InVideo AI Logo](https://upload.wikimedia.org/wikipedia/commons/e/e1/InVideo_logo.png) InVideo AI  
-- ![Suno Music Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Suno_music_logo.png) Suno Music  
-- ![Cursor Logo](https://upload.wikimedia.org/wikipedia/commons/0/0c/Cursor_logo.png) Cursor  
-- ![Runway Logo](https://upload.wikimedia.org/wikipedia/commons/0/02/Runway_logo.png) Runway  
+- ![PFP Images Maker Logo](https://upload.wikimedia.org/wikipedia/commons/a/a3/PFP_Images_Maker_logo.svg) PFP Images Maker  
+- ![InVideo AI Logo](https://upload.wikimedia.org/wikipedia/commons/e/e1/InVideo_logo.svg) InVideo AI  
+- ![Suno Music Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Suno_music_logo.svg) Suno Music  
+- ![Cursor Logo](https://upload.wikimedia.org/wikipedia/commons/0/0c/Cursor_logo.svg) Cursor  
+- ![Runway Logo](https://upload.wikimedia.org/wikipedia/commons/0/02/Runway_logo.svg) Runway    
 
 
 # 📊 GitHub Stats:
