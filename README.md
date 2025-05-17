@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30">
 </div>
 
 ### Tools and Platforms
@@ -47,11 +46,7 @@
 ### Front-end Frameworks and Libraries
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/React%20Compiler-61DAFB?style=flat&logo=react&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="30">
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" height="30">
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/RXJS-B7178C?style=flat&logo=reactivex&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Styled--components-DB7093?style=flat&logo=styled-components&logoColor=white" height="30">
