@@ -59,6 +59,15 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" height=35"">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" height=35"">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" height=35"">
+</div>
+
+### Testing & QA
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" height=35"">
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white" height=35"">
+  <img src="https://img.shields.io/badge/Chai-A30701?style=flat&logo=chai&logoColor=white" height=35"">
 </div>
 
 ### Package Managers
