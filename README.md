@@ -2,7 +2,7 @@
 <h3 align="center">Junior Front-end Developer | Aspiring Full-stack Engineer | Lifelong Learner</h3>
 
 # 💫 About Me:
-👋 I'm currently seeking for junior developer position.<br>👨‍💻 i'm looking to collaborate on professional projects.<br>🌱 I'm currently learning for full stack developer - front- end, back- end and devops culture.<br>💬 Ask me about everything.<br>📫 Fun fact: Code Zen - Achieving state of inner peace, when your code finally compiles without errors.
+🚀 Passionate about building clean, user-friendly web applications.<br>
 
 
 ## 🌐 Socials:
