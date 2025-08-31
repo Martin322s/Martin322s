@@ -11,7 +11,8 @@
 
 # 🔭 What I'm Working On
 - 🚗 **GoTogether** – web app for carpooling (React, Node.js, MongoDB, Firebase, JWT)
-- 📝 **WordPress Plugin** – custom plugin with React + WP REST API  
+- 📝 **WordPress Plugin** – custom plugin with React + WP REST API
+- 🎥 **Video Control App** – vehicle detection & counting using TensorFlow.js + Firebase 
 
 
 ## 🌐 Socials:
