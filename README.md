@@ -6,6 +6,7 @@
 🎯 Focused on front-end development with React, TypeScript, and modern UI libraries, while actively expanding into back-end and DevOps practices.<br>
 📚 Currently learning full-stack development and cloud technologies (Node.js, Express, Docker, Kubernetes, AWS).<br>
 🤝 Open to collaborate on real-world projects, where I can contribute, learn from experienced developers, and grow together.<br>
+💡 I love solving problems, writing maintainable code, and continuously improving my skills.<br>
 
 
 ## 🌐 Socials:
