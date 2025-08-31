@@ -9,6 +9,9 @@
 💡 I love solving problems, writing maintainable code, and continuously improving my skills.<br>
 ✨ Fun fact: *"Code Zen"* — that peaceful moment when everything finally compiles and works just as expected.  
 
+# 🔭 What I'm Working On
+- 🚗 **GoTogether** – web app for carpooling (React, Node.js, MongoDB, Firebase, JWT)  
+
 
 ## 🌐 Socials:
 <p align="left">
