@@ -3,6 +3,7 @@
 
 # 💫 About Me:
 🚀 Passionate about building clean, user-friendly web applications.<br>
+🎯 Focused on front-end development with React, TypeScript, and modern UI libraries, while actively expanding into back-end and DevOps practices.<br>
 
 
 ## 🌐 Socials:
