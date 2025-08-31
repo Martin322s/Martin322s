@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Martin Sofroniev</h1>
 <h3 align="center">Junior Front-end Developer | Aspiring Full-stack Engineer | Lifelong Learner</h3>
 
+# ⚡ Quick Overview
+- 🎓 Master's in Computer & Software Engineering (Technical University of Sofia)  
+- 🛠 Completed multiple projects: GoTogether (carpool app), WordPress plugin, Video Control AI App  
+- 📖 Graduate of SoftUni Upskill C++ Development program (Advanced OOP, Memory Management, Algorithms)  
+- 🌐 Passionate about modern web development (React, Node.js, DevOps) and building practical solutions  
+
 # 💫 About Me:
 🚀 Passionate about building clean, user-friendly web applications.<br>
 🎯 Focused on front-end development with React, TypeScript, and modern UI libraries, while actively expanding into back-end and DevOps practices.<br>
