@@ -4,7 +4,7 @@
 # ⚡ Quick Overview
 - 🎓 Master's in Computer & Software Engineering (Technical University of Sofia)  
 - 🛠 Completed multiple projects: GoTogether (carpool app), WordPress plugin, Video Control AI App  
-- 📖 Graduate of SoftUni Upskill C++ Development program (Advanced OOP, Memory Management, Algorithms)  
+- 📖 Graduate of SoftUni (Front - end Development with JS / Upskill C++ Development program (Advanced OOP, Memory Management, Algorithms))
 - 🌐 Passionate about modern web development (React, Node.js, DevOps) and building practical solutions  
 
 # 💫 About Me:
