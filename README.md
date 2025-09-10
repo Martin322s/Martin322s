@@ -2,10 +2,22 @@
 <h3 align="center">Junior Front-end Developer | Aspiring Full-stack Engineer | Lifelong Learner</h3>
 
 # ⚡ Quick Overview
-- 🎓 Master's in Computer & Software Engineering (Technical University of Sofia)  
-- 🛠 Completed multiple projects: GoTogether (carpool app), WordPress plugin, Video Control AI App  
-- 📖 Graduate of SoftUni (Front - end Development with JS / Upskill C++ Development program (Advanced OOP, Memory Management, Algorithms))
-- 🌐 Passionate about modern web development (React, Node.js, DevOps) and building practical solutions  
+
+### 🎓 Education & Certifications
+
+1. 🎒 Secondary Education in **Systems Programming**  
+2. 🛠️ **Third Degree Professional Qualification** in Programming  
+3. 🎓 **Bachelor’s Degree** in Industrial Information Technologies (IIT)  
+4. 🎓 **Master’s Degree** in Computer Systems and Technologies (CST)  
+5. 🏅 Diploma from **Software University (SoftUni) Academy**  
+6. 🧑‍🔧 **Engineering Degrees** in **Industrial Engineering** and **Software Engineering**  
+7. 📜 **17+ Professional Certificates** in various technologies  
+8. 💻 Certificate of **Completed Professional Internship** as Software Engineer  
+9. 🌍 Certificate from **European Digital Resources (EDR)** – Highest Level of Competence in Internet and Computer Systems  
+10. 🚀 Upskill Certificate for **Completed Advanced Program in System Software Development** from SoftUni  
+11. 📚 **40+ Attended Seminars** on diverse tech topics
+
+ 
 
 # 💫 About Me:
 🚀 Passionate about building clean, user-friendly web applications.<br>
