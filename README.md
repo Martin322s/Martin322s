@@ -11,7 +11,7 @@
 4. 🎓 **Master’s Degree** in Computer Systems and Technologies (CST)  
 5. 🏅 Diploma from **Software University (SoftUni) Academy**  
 6. 🧑‍🔧 **Engineering Degrees** in **Industrial Engineering** and **Software Engineering**  
-7. 📜 **17+ Professional Certificates** in various technologies  
+7. 📜 **20+ Professional Certificates** in various technologies  
 8. 💻 Certificate of **Completed Professional Internship** as Software Engineer  
 9. 🌍 Certificate from the **European Digital Competence Framework (DigComp)** - Highest Level of Competence in Internet and Computer Systems  
 10. 🚀 Upskill Certificate for **Completed Advanced Program in System Software Development** from SoftUni  
