@@ -27,11 +27,16 @@
 💡 I love solving problems, writing maintainable code, and continuously improving my skills.<br>
 ✨ Fun fact: *"Code Zen"* — that peaceful moment when everything finally compiles and works just as expected.  
 
-# 🔭 What I'm Working On
-- 🚗 **GoTogether** – web app for carpooling (React, Node.js, MongoDB, Firebase, JWT)
-- 📝 **WordPress Plugin** – custom plugin with React + WP REST API
-- 🎥 **Video Control App** – vehicle detection & counting using TensorFlow.js + Firebase
-- 💻 **C++ Projects** – advanced OOP, memory management, and algorithms
+# 🌟 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|----------|--------------|-------------|------|
+| 🚗 **Shared Journeys** | Web app for organizing shared rides | React, Node.js, MongoDB, Firebase, JWT | [Repo](https://github.com/Martin322s/shared-journeys) |
+| 👁️ **Optic Project** | Supplier & optics-management desktop app (OOP C++) | C++ (classes, file I/O, operator overloading) | [Repo](https://github.com/Martin322s/optic-project) |
+| 🍏 **Healthy Food App** | Social platform for sharing recipes & health-products | React (frontend), Node.js/Express (backend), MongoDB | [Repo](https://github.com/Martin322s/healthy-food-app) |
+| 🎬 **Film Library API** | Backend API for film library (SoftUni project) | Node.js, Express, MongoDB | [Repo](https://github.com/Martin322s/film-library-api) |
+| 🧩 **Custom Templating Engine** | Lightweight JS templating engine (variables, loops, conditionals) | JavaScript (Node.js) | [Repo](https://github.com/Martin322s/custom-templating-engine) |
+| ☁️ **Azure Terraform Infra** | Infrastructure-as-Code setup for Azure | Terraform, Azure Cloud Resources | [Repo](https://github.com/Martin322s/azure-terraform) |
 
 
 ## 🌐 Socials:
