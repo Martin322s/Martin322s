@@ -31,13 +31,13 @@
 
 | Project | Description | Tech Stack | Link |
 |----------|--------------|-------------|------|
-| 🏦 **Credian (BankManager)** | Full-stack banking platform with customer management, authentication, and transactions | React, Java 21, Spring Boot (Web, Security, Data JPA, Flyway, Mail), PostgreSQL, JWT, Caffeine, Maven, Tailwind CSS, Docker | [Repo](https://github.com/IvanAndonov1/BankManager.git) |
-| 🚗 **GoTogether** | Web app for organizing shared rides | React, Java 21, Spring Boot, PostgreSQL, JWT, Flyway, Tailwind CSS | [Repo](https://github.com/Martin322s/shared-journeys.git) |
-| 🎥 **Video Control App** | Vehicle detection & counting system | TensorFlow.js, Firebase | [Repo](https://github.com/Martin322s/optic-project.git) |
-| 🧩 **C++ Projects** | Algorithms, OOP, memory management | C++, STL | [Repo](https://github.com/Martin322s/custom-templating-engine.git) |
-| 🧱 **WordPress Plugin** | Custom plugin using React + WP REST API | PHP, React, WordPress | [Repo](https://github.com/Martin322s/healthy-food-app.git) |
-| ☁️ **Cloud Infrastructure** | Terraform setup for Azure environment | Terraform, Azure | [Repo](https://github.com/Martin322s/azure-terraform.git) |
-| 🍿 **Film Library API** | REST API for managing movies and genres | Node.js, Express, MongoDB | [Repo](https://github.com/Martin322s/film-library-api.git) |
+| 🚗 **Shared Journeys** | Web app for organizing shared rides | React, Node.js, MongoDB, Firebase, JWT | [Repo](https://github.com/Martin322s/shared-journeys) |
+| 👁️ **Optic Project** | Supplier & optics-management desktop app (OOP C++) | C++ (classes, file I/O, operator overloading) | [Repo](https://github.com/Martin322s/optic-project) |
+| 🍏 **Healthy Food App** | Social platform for sharing recipes & health-products | React (frontend), Node.js/Express (backend), MongoDB | [Repo](https://github.com/Martin322s/healthy-food-app) |
+| 🎬 **Film Library API** | Backend API for film library (SoftUni project) | Node.js, Express, MongoDB | [Repo](https://github.com/Martin322s/film-library-api) |
+| 🧩 **Custom Templating Engine** | Lightweight JS templating engine (variables, loops, conditionals) | JavaScript (Node.js) | [Repo](https://github.com/Martin322s/custom-templating-engine) |
+| ☁️ **Azure Terraform Infra** | Infrastructure-as-Code setup for Azure | Terraform, Azure Cloud Resources | [Repo](https://github.com/Martin322s/azure-terraform) |
+
 
 
 ## 🌐 Socials:
