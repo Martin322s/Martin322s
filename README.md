@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" height=35"">
+  <img src="https://img.shields.io/badge/SQL-F7DF1E?style=flat&logo=sql&logoColor=black" height=35"">
 </div>
 
 ### Tools and Platforms
