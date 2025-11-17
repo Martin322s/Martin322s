@@ -15,7 +15,7 @@
 8. 💻 Certificate of **Completed Professional Internship** as Software Engineer  
 9. 🌍 Certificate from the **European Digital Competence Framework (DigComp)** - Highest Level of Competence in Internet and Computer Systems  
 10. 🚀 Upskill Certificate for **Completed Advanced Program in System Software Development** from SoftUni  
-11. 📚 **40+ Attended Seminars** on diverse tech topics
+11. 📚 **50+ Attended Seminars** on diverse tech topics
 
  
 
