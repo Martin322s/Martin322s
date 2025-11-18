@@ -2,9 +2,15 @@
 
 <h3 align="center">
   <picture>
-    <img 
-      src="https://img.shields.io/badge/Currently%20Frontend%20Developer%20@%20Groupama%20Insurance-0A5EB0?style=for-the-badge&logo=react&logoColor=white" 
-      height="45">
+    <img
+      src="https://www.groupama.bg/images/logo/logo-2024.svg"
+      height="45"
+      style="vertical-align: middle; margin-right: 10px;"
+    >
+    <img
+      src="https://img.shields.io/badge/Currently%20Frontend%20Developer%20@%20Groupama%20Insurance-28A745?style=for-the-badge&logo=react&logoColor=white"
+      height="45"
+    >
   </picture>
 </h3>
 
