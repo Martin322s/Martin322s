@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Sofroniev</h1>
-<h3 align="center">Junior Full-Stack Developer | Aspiring Full-stack Engineer | Lifelong Learner</h3>
+<h3 align="center">Front-end Developer at Groupama Insurance | Aspiring Full-Stack Engineer | Lifelong Learner</h3>
 
 # ⚡ Quick Overview
 
