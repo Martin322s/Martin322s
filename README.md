@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Martin Sofroniev</h1>
-<h3 align="center">Front-end Developer at Groupama Insurance | Aspiring Full-Stack Engineer | Lifelong Learner</h3>
+<h1 align="center">⚡ Martin Sofroniev ⚡</h1>
+
+<h3 align="center">
+  <picture>
+    <img 
+      src="https://img.shields.io/badge/Currently%20Frontend%20Developer%20@%20Groupama%20Insurance-0A5EB0?style=for-the-badge&logo=react&logoColor=white" 
+      height="45">
+  </picture>
+</h3>
 
 # ⚡ Quick Overview
 
@@ -20,12 +27,12 @@
  
 
 # 💫 About Me:
-🚀 Passionate about building clean, user-friendly web applications.<br>
-🎯 Focused on front-end development with React, TypeScript, and modern UI libraries, while actively expanding into back-end and DevOps practices.<br>
-📚 Currently learning full-stack development and cloud technologies (Node.js, Express, Docker, Kubernetes, AWS).<br>
-🤝 Open to collaborate on real-world projects, where I can contribute, learn from experienced developers, and grow together.<br>
-💡 I love solving problems, writing maintainable code, and continuously improving my skills.<br>
-✨ Fun fact: *"Code Zen"* — that peaceful moment when everything finally compiles and works just as expected.  
+💼 Frontend Developer at Groupama Insurance, building reliable and intuitive web interfaces used in real business environments.<br>
+🚀 Passionate about creating clean, scalable, and user-focused solutions with React, TypeScript, and modern front-end technologies.<br>
+🌐 Expanding my expertise into full-stack development and cloud engineering — exploring Node.js, Express, Docker, Kubernetes, and AWS.<br>
+🤝 Open to collaborating on meaningful projects and contributing to teams where quality, learning, and long-term growth matter.<br>
+📚 Strong believer in writing maintainable code, clean architecture, and continuous improvement through practice and curiosity.<br>
+✨ Fun fact: *That legendary moment when the feature works exactly as expected — pure developer enlightenment.*  
 
 # 🌟 Featured Projects
 
@@ -44,8 +51,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/martin-sofroniev-b4111326b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin sofroniev" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100009733451214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="martin sofroniev" height="30" width="40" /></a>
-<a href="https://instagram.com/martin_13s18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin_sw4" height="30" width="40" /></a>
-<a href="https://discord.gg/martin13s18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="martin13s18" height="30" width="40" /></a>
+<a href="https://instagram.com/martinn__sf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin_sw4" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
