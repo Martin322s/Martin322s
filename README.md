@@ -8,7 +8,7 @@
       style="vertical-align: middle; margin-right: 10px;"
     >
     <img
-      src="https://img.shields.io/badge/Currently%20Frontend%20Developer%20@%20Groupama%20Insurance-28A745?style=for-the-badge&logo=react&logoColor=white"
+      src="https://img.shields.io/badge/Currently%20Frontend%20Developer%20@%20Groupama%20Insurance-28A745?style=for-the-badge"
       height="45"
     >
   </picture>
