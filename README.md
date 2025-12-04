@@ -84,9 +84,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Pages-327FC7?style=flat&logo=github&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" height=35"">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" height=35"">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height=35"">
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white" height=35"">
@@ -111,7 +108,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white" height=35"">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" height=35"">
 </div>
 
@@ -141,7 +137,6 @@
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height=35"">
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" height=35"">
 </div>
 
 ### Transpilers and Linters
@@ -157,12 +152,9 @@
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" height=35"">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" height=35"">
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white" height=35"">
-  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24?style=flat&logo=adobe-acrobat-reader&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat&logo=create-react-app&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat&logo=jekyll&logoColor=white" height=35"">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Jquery%20AJAX-0769AD?style=flat&logo=jquery&logoColor=white" height=35"">
 </div>
 
@@ -171,8 +163,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" height=35"">
   <img src="https://img.shields.io/badge/Linux%20Kernel-FCC624?style=flat&logo=linux&logoColor=black" height=35"">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" height=35"">
-  <img src="https://img.shields.io/badge/Alpine%20Linux-0D597F?style=flat&logo=alpinelinux&logoColor=white" height=35"">
-  <img src="https://img.shields.io/badge/RedHat-EE0000?style=flat&logo=redhat&logoColor=white" height=35"">
 </div>
 
 ### 🤖 AI Chat Tools  
