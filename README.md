@@ -8,7 +8,7 @@
       style="vertical-align: middle; margin-right: 10px;"
     >
     <img
-      src="https://img.shields.io/badge/Currently%20Frontend%20Developer%20@%20Groupama%20Insurance-28A745?style=for-the-badge"
+      src="https://img.shields.io/badge/Currently%20Software%20Developer%20@%20Groupama%20Insurance-28A745?style=for-the-badge"
       height="45"
     >
   </picture>
@@ -34,7 +34,7 @@
  
 
 # 💫 About Me:
-💼 Frontend Developer at Groupama Insurance, building reliable and intuitive web interfaces used in real business environments.<br>
+💼 Software and Cloud Developer at Groupama Insurance, building reliable and intuitive web interfaces and cloud architectures used in real business environments and.<br>
 🚀 Passionate about creating clean, scalable, and user-focused solutions with React, TypeScript, and modern front-end technologies.<br>
 🌐 Expanding my expertise into full-stack development and cloud engineering — exploring Node.js, Express, Docker, Kubernetes, and AWS.<br>
 🤝 Open to collaborating on meaningful projects and contributing to teams where quality, learning, and long-term growth matter.<br>
