@@ -31,15 +31,6 @@
 11. 🚀 Software Development Internship Certificate for Bank-Management Application Development at Experian
 12. 📚 **50+ Attended Seminars** on diverse tech topics
 
- 
-
-# 💫 About Me:
-💼 Software and Cloud Developer at Groupama Insurance, building reliable and intuitive web interfaces and cloud architectures used in real business environments and.<br>
-🚀 Passionate about creating clean, scalable, and user-focused solutions with React, TypeScript, and modern front-end technologies.<br>
-🌐 Expanding my expertise into full-stack development and cloud engineering — exploring Node.js, Express, Docker, Kubernetes, and AWS.<br>
-🤝 Open to collaborating on meaningful projects and contributing to teams where quality, learning, and long-term growth matter.<br>
-📚 Strong believer in writing maintainable code, clean architecture, and continuous improvement through practice and curiosity.<br>
-✨ Fun fact: *That legendary moment when the feature works exactly as expected — pure developer enlightenment.*  
 
 # 🌟 Featured Projects
 
@@ -185,11 +176,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Martin322s&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin322s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Martin322s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Martin322&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
