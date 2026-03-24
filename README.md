@@ -22,8 +22,8 @@
 2. 🛠️ **Third Degree Professional Qualification** in Programming  
 3. 🎓 **Bachelor’s Degree** in Industrial Information Technologies (IIT)  
 4. 🎓 **Master’s Degree** in Computer Systems and Technologies (CST)  
-5. 🏅 Diploma Front-end Developer with JS from **Software University (SoftUni) Academy**
-6. 🏅 Diploma JS Full-Stack Developer from **Software University (SoftUni) Academy** 
+5. 🏅 Diploma **"Front-end Developer with JS"** from **Software University (SoftUni) Academy**
+6. 🏅 Diploma **"JS Full-Stack Developer"** from **Software University (SoftUni) Academy** 
 7. 🧑‍🔧 **Engineering Degrees** in **Industrial Engineering** and **Software Engineering**  
 8. 📜 **20+ Professional Certificates** in various technologies  
 9. 💻 Certificate of **Completed Professional Internship** as Software Engineer  
