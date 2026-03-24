@@ -22,14 +22,15 @@
 2. 🛠️ **Third Degree Professional Qualification** in Programming  
 3. 🎓 **Bachelor’s Degree** in Industrial Information Technologies (IIT)  
 4. 🎓 **Master’s Degree** in Computer Systems and Technologies (CST)  
-5. 🏅 Diploma from **Software University (SoftUni) Academy**  
-6. 🧑‍🔧 **Engineering Degrees** in **Industrial Engineering** and **Software Engineering**  
-7. 📜 **20+ Professional Certificates** in various technologies  
-8. 💻 Certificate of **Completed Professional Internship** as Software Engineer  
-9. 🌍 Certificate from the **European Digital Competence Framework (DigComp)** - Highest Level of Competence in Internet and Computer Systems  
-10. 🚀 Upskill Certificate for **Completed Advanced Program in System Software Development** from SoftUni
-11. 🚀 Software Development Internship Certificate for Bank-Management Application Development at Experian
-12. 📚 **50+ Attended Seminars** on diverse tech topics
+5. 🏅 Diploma Front-end Developer with JS from **Software University (SoftUni) Academy**
+6. 🏅 Diploma JS Full-Stack Developer from **Software University (SoftUni) Academy** 
+7. 🧑‍🔧 **Engineering Degrees** in **Industrial Engineering** and **Software Engineering**  
+8. 📜 **20+ Professional Certificates** in various technologies  
+9. 💻 Certificate of **Completed Professional Internship** as Software Engineer  
+10. 🌍 Certificate from the **European Digital Competence Framework (DigComp)** - Highest Level of Competence in Internet and Computer Systems  
+11. 🚀 Upskill Certificate for **Completed Advanced Program in System Software Development** from SoftUni
+12. 🚀 Software Development Internship Certificate for Bank-Management Application Development at Experian
+13. 📚 **50+ Attended Seminars** on diverse tech topics
 
 
 # 🌟 Featured Projects
