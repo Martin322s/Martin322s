@@ -25,7 +25,7 @@
 5. 🏅 Diploma **"Front-end Developer with JS"** from **Software University (SoftUni) Academy**
 6. 🏅 Diploma **"JS Full-Stack Developer"** from **Software University (SoftUni) Academy** 
 7. 🧑‍🔧 **Engineering Degrees** in **Industrial Engineering** and **Software Engineering**  
-8. 📜 **20+ Professional Certificates** in various technologies  
+8. 📜 **25+ Professional Certificates** in various technologies  
 9. 💻 Certificate of **Completed Professional Internship** as Software Engineer  
 10. 🌍 Certificate from the **European Digital Competence Framework (DigComp)** - Highest Level of Competence in Internet and Computer Systems  
 11. 🚀 Upskill Certificate for **Completed Advanced Program in System Software Development** from SoftUni
