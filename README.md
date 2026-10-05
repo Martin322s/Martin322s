@@ -30,7 +30,7 @@
 10. 🌍 Certificate from the **European Digital Competence Framework (DigComp)** - Highest Level of Competence in Internet and Computer Systems  
 11. 🚀 Upskill Certificate for **Completed Advanced Program in System Software Development** from SoftUni
 12. 🚀 Software Development Internship Certificate for Bank-Management Application Development at Experian
-13. 14. 🏆 **Finalist in Bulgaria’s Top 100 Talents 2026** – **Tech Category**
+13. 🏆 **Finalist in Bulgaria’s Top 100 Talents 2026** – **Tech Category**
 14. 📚 **50+ Attended Seminars** on diverse tech topics
 
 
